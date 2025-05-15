@@ -1,4 +1,4 @@
-##Hi, my name is Maryna! 👋
+# Hi, my name is Maryna! 👋
 
 <!--
 **maryna-bobryk/maryna-bobryk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I am a front-end developer with a design background, currently focusing on frontend development and combining a dual focus on how things work and how they feel. I build interfaces using HTML, CSS, JavaScript, and React that perform reliably and communicate clearly. Responsible and proactive, I move fast while listening and iterating. I thrive on precision, even in chaotic environments—as long as there’s purpose behind it. Problem-solving, especially uncovering hidden challenges, drives me. In my work, I actively apply artificial intelligence to enhance solutions. I stay curious and take ownership to create solutions that make sense—and hopefully a difference.
+
